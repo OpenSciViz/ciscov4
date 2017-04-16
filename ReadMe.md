@@ -1,3 +1,5 @@
+This Readme content create by: python -c 'import euclid ; help(euclid)'
+
 chkSys> 2.7
 completed system check ... python version: 2.7
 ok this is a 64 bit OS or better, with python version: 2.7
